@@ -1,4 +1,5 @@
 = PlantUML Theme "Moccafruit"
+:toc:
 
 Primarily dark, generally warm and somewhat chocolatey tones with a little dash
 of colour on the side.
