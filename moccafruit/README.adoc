@@ -1,0 +1,14 @@
+= PlantUML Theme "Moccafruit"
+
+Primarily dark, generally warm and somewhat chocolatey tones with a little dash
+of colour on the side.
+
+== Mindmap
+
+.example mindmap diagram
+image::feature_brainstorm.svg[]
+
+== Activity Diagram
+
+.example activity diagram
+image::initial_experience_bs.svg[]
