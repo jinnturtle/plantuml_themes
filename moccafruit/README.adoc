@@ -1,8 +1,13 @@
 = PlantUML Theme "Moccafruit"
 :toc:
 
+== Synopsis
+
 Primarily dark, generally warm and somewhat chocolatey tones with a little dash
 of colour on the side.
+
+CAUTION: This is an early WORK IN PROGRESS, chunks of the theme may not be
+configured or balanced yet, everything is subject to change significantly.
 
 == Mindmap
 
